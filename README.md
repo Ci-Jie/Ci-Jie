@@ -1,8 +1,16 @@
-### Hi there 👋
+### Hey 👋, I'm James_li(Ci-Jie)
+
+[![Github](https://img.shields.io/github/followers/Ci-Jie?label=Follow&style=social)](https://github.com/Ci-Jie)
+
+- 🔭 I’m currently working on ASUS
+
+<a href="https://github.com/Ci-Jie">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ci-Jie&show_icons=true&theme=merko&count_private=true" alt="James's github stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ci-Jie&theme=merko&layout=compact" alt="James's github top languages" />
+</a>
+<br/>
 
 <!--
-**Ci-Jie/Ci-Jie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
